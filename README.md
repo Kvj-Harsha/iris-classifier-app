@@ -1,6 +1,6 @@
 # Iris Flower Classifier
 
-A lightweight web application that predicts the species of an Iris flower using **Logistic Regression**, built with **Gradio**.
+A lightweight application that predicts the species of an Iris flower using **Logistic Regression**, built with **Gradio**.
 
 It takes 4 numeric inputs — *sepal length*, *sepal width*, *petal length*, and *petal width* — and classifies the flower into one of the three Iris species: **Setosa**, **Versicolor**, or **Virginica**.
 
