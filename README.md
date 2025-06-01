@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classifier
+# Iris Flower Classifier
 
 A lightweight web application that predicts the species of an Iris flower using **Logistic Regression**, built with **Gradio**.
 
